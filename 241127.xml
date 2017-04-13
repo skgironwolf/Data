@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <folder>CNNData</folder>
+   <filename>241127.jpg</filename>
+   <source>
+      <database/>
+      <annotation/>
+      <image/>
+      <flickerid/>
+   </source>
+   <owner>
+      <flickerid/>
+      <name>Saadia K. Gabriel</name>
+   </owner>
+   <size>
+      <width>600</width>
+      <height>600</height>
+      <depth>3</depth>
+   </size>
+   <segmented>0</segmented>
+   <object>
+      <name>roost</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+         <xmin>106</xmin>
+         <ymin>299</ymin>
+         <xmax>235</xmax>
+         <ymax>428</ymax>
+      </bndbox>
+   </object>
+   <object>
+      <name>roost</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+         <xmin>77</xmin>
+         <ymin>328</ymin>
+         <xmax>149</xmax>
+         <ymax>400</ymax>
+      </bndbox>
+   </object>
+</annotation>
